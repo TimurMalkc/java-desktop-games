@@ -1,4 +1,4 @@
-# java-desktop-games
+# Java Desktop Games
 Collection of desktop games made with Java:
 - Brick Breaker
 - Snake Game
