@@ -1,8 +1,8 @@
 # java-desktop-games
 Collection of desktop games made with Java
-> Brick Breaker
-> Snake Game
-> TicTacToe
+- Brick Breaker
+- Snake Game
+- TicTacToe
 
 Tech used: JavaSE-17, Java Swing Framework
 
